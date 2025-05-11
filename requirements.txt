@@ -1,0 +1,11 @@
+requests~=2.31.0
+beautifulsoup4~=4.12.3
+tiktoken~=0.6.0
+openai==1.16.2
+aiogram~=3.4.1
+pyTelegramBotApi
+gigachain
+gigachat
+SpeechRecognition
+redis
+g4f
